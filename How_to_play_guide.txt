@@ -1,0 +1,14 @@
+================================= How to play this game =====================================
+
+This is an automated game which requires bare minimum inputs from user in a simple interface.
+User will play against computer.First toss will be done in each of the four scanerio to decide
+who goes first. the user has to choose between batting and bowling. the user is required to 
+input a number between 1-10 to and at the same time computer will choose a radom number from
+1-10. if the 2 numbers coincide with each other then whoever is at batting is declared is out.
+If the number doesn't coincide then batsman's number is stored. Whoever goes to second batting
+has to achieve more score than the target. Whoever scores more run in batting at second place 
+he is declared winner. the other one is declared loser. 
+
+If the scores in both innings then match is declared tie. then a short match of 6 balls is played
+
+If also match ties then an option of toss is there to decide win or loss.
