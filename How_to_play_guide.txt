@@ -12,3 +12,5 @@ he is declared winner. the other one is declared loser.
 If the scores in both innings then match is declared tie. then a short match of 6 balls is played
 
 If also match ties then an option of toss is there to decide win or loss.
+if you typed wrong input then game will not come to an  error and try it will come 
+to try and except block
